@@ -83,7 +83,7 @@ nav ul {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
-    url(/img/forest-mountains-fog-clouds-9754.jpg);
+    url(img/forest-mountains-fog-clouds-9754.jpg);
   min-height: 90vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -102,7 +102,7 @@ nav ul {
   min-height: 100vh;
   display: flex;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/skyline-new-york-city-7613.jpg);
+    url(img/skyline-new-york-city-7613.jpg);
 
   align-items: center;
   background-size: cover;
@@ -228,7 +228,7 @@ button:focus {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/woman-taking-pictures-of-ruins-2087391.jpg);
+    url(img/woman-taking-pictures-of-ruins-2087391.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
